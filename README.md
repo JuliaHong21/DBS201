@@ -8,4 +8,4 @@ Structured Query Language(SQL) Overview
 Physical Database Design
 Database Management System Features
 Database Administrator Responsibilities 
-Database Application Programming
+Database Application Programming 
